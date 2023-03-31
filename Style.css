@@ -1,0 +1,21 @@
+ul{
+    padding: 30px;
+    margin: 10px;
+    background: darkred;
+    list-style: square;
+}
+
+ul li{
+    padding: 6px;
+    margin: 6px 18px;
+    background: red;
+}
+
+ul li:hover{
+    background: lightblue;
+
+}
+ol li:hover{
+scale:2.09;
+background: blue;
+}
